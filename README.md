@@ -1,5 +1,7 @@
 # Forkify Project
 
+## Demo: [click here](https://sr-forkify.netlify.app/)
+
 ### Recipe application with custom recipe uploads.
 
 A guided project (learning project) of the udemy course: "The Complete JavaScript Course 2023: From Zero to Expert!" by Jonas Schmedtmann.
