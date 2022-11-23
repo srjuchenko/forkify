@@ -5,6 +5,7 @@
 A guided project (learning project) of the udemy course: "The Complete JavaScript Course 2023: From Zero to Expert!" by Jonas Schmedtmann.
 [Link to the course](https://www.udemy.com/course/the-complete-javascript-course/)
 
+In this project I have used the following: 
 - vanilla JS 
 - ES6 
 - build tool: Parcel
